@@ -1,0 +1,5 @@
+{
+  "name": "SubTrack - Gestionnaire d'abonnements",
+  "description": "Une application mobile-first pour gérer vos abonnements, visualiser les dépenses et tracker les échéances.",
+  "requestFramePermissions": []
+}
